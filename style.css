@@ -164,6 +164,14 @@ a{
 .card-img{
     width: 100%;
     border-radius: 0.5rem;
+    
+
+}
+.card-imgs{
+    width: 100%;
+    border-radius: 0.5rem;
+    height: 150px;
+    
 
 }
 .card-title{
